@@ -1,4 +1,4 @@
 # TestCodigoFuturo
 
 ## Índice
-- [Página de prueba](https://github.com/ZulfBracket/TestCodigoFuturo/blob/main/index.html)
+- [Página de prueba (portafolio)](https://zulfbracket.github.io/TestCodigoFuturo/)
